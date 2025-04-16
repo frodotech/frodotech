@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain technology,programming using python and c++  and cybersecurity
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on blockchain technology
-- 📫 How to reach me ;email: prideuza@gmail.com
+- 📫 How to reach me ;email: pridemuza@gmail.com
 
 <!---
 frodotech/frodotech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
